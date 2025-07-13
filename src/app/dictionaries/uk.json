@@ -37,8 +37,6 @@
   },
   "footer": {
     "copyright": "© {year} TransCord. Всі права захищені.",
-    "support_server": "Сервер підтримки",
-    "terms_of_service": "Умови надання послуг",
-    "privacy_policy": "Політика конфіденційності"
+    "support_server": "Сервер підтримки"
   }
 }

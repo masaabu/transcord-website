@@ -37,8 +37,6 @@
   },
   "footer": {
     "copyright": "© {year} TransCord. All rights reserved.",
-    "support_server": "Support Server",
-    "terms_of_service": "Terms of Service",
-    "privacy_policy": "Privacy Policy"
+    "support_server": "Support Server"
   }
 }
