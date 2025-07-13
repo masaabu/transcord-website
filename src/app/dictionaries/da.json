@@ -1,0 +1,44 @@
+{
+  "hero": {
+    "tagline": "Gør flersproget kommunikation mere tilgængelig.",
+    "title": "En Discord-bot, der nedbryder sprogbarrierer.",
+    "highlight": "TransCord",
+    "description": "TransCord oversætter beskeder og tekst. Alle kan nemt nyde international kommunikation ved hjælp af kommandoer.",
+    "invite_button": "Tilføj bot",
+    "features_link": "Se funktioner"
+  },
+  "features": {
+    "title": "Nøglefunktioner i TransCord",
+    "description": "Kombinerer enkelhed med høj funktionalitet. Oversæt nemt beskeder på enhver server.",
+    "multilingual_support": {
+      "title": "Flersproget support",
+      "description": "TransCord understøtter i øjeblikket oversættelse på 8 sprog. Vi kan tilføje flere understøttede sprog efter anmodning."
+    },
+    "translation": {
+      "title": "Nem oversættelse",
+      "description": "Du kan oversætte beskeder fra skråstreg-kommandoen eller beskedens kontekstmenu."
+    },
+    "easy_setup": {
+      "title": "Nem opsætning",
+      "description": "Du skal blot installere botten for at fuldføre opsætningen, og du kan begynde at bruge oversættelsesfunktionerne med det samme."
+    },
+    "slash_commands": {
+      "title": "Skråstreg-kommandoer",
+      "description": "Fuldt kompatibel med Discords seneste skråstreg-kommandoer. Kommandoinput er let og intuitivt."
+    },
+    "fast_stable": {
+      "title": "Hurtig og stabil",
+      "description": "Optimeret kode og en stabil infrastruktur giver en stressfri oversættelsesoplevelse i høj hastighed."
+    },
+    "high_customization": {
+      "title": "Høj tilpasning",
+      "description": "Du kan konfigurere meddelelsesvisningstypen og oversættelsessproget. Tilpas det fleksibelt, så det passer til dine behov og præferencer."
+    }
+  },
+  "footer": {
+    "copyright": "© {year} TransCord. Alle rettigheder forbeholdes.",
+    "support_server": "Supportserver",
+    "terms_of_service": "Servicevilkår",
+    "privacy_policy": "Privatlivspolitik"
+  }
+}

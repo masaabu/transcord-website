@@ -1,0 +1,44 @@
+{
+  "hero": {
+    "tagline": "Daugiakalbio bendravimo prieinamumo didinimas.",
+    "title": "„Discord“ botas, kuris griauna kalbos barjerus.",
+    "highlight": "TransCord",
+    "description": "„TransCord“ verčia pranešimus ir tekstą. Kiekvienas gali lengvai mėgautis tarptautiniu bendravimu naudodamas komandas.",
+    "invite_button": "Pridėti botą",
+    "features_link": "Peržiūrėti funkcijas"
+  },
+  "features": {
+    "title": "Pagrindinės „TransCord“ savybės",
+    "description": "Paprastumo ir didelio funkcionalumo derinys. Lengvai verskite pranešimus bet kuriame serveryje.",
+    "multilingual_support": {
+      "title": "Daugiakalbis palaikymas",
+      "description": "Šiuo metu „TransCord“ palaiko vertimą į 8 kalbas. Paprašius galime pridėti daugiau palaikomų kalbų."
+    },
+    "translation": {
+      "title": "Lengvas vertimas",
+      "description": "Galite versti pranešimus iš pasvirojo brūkšnio komandos arba pranešimo kontekstinio meniu."
+    },
+    "easy_setup": {
+      "title": "Lengvas nustatymas",
+      "description": "Tiesiog įdiekite botą, kad užbaigtumėte sąranką, ir iškart galėsite pradėti naudotis vertimo funkcijomis."
+    },
+    "slash_commands": {
+      "title": "Pasvirojo brūkšnio komandos",
+      "description": "Visiškai suderinamas su naujausiomis „Discord“ pasvirojo brūkšnio komandomis. Komandų įvestis yra paprasta ir intuityvi."
+    },
+    "fast_stable": {
+      "title": "Greitas ir stabilus",
+      "description": "Optimizuotas kodas ir stabili infrastruktūra užtikrina vertimo patirtį be streso ir dideliu greičiu."
+    },
+    "high_customization": {
+      "title": "Didelis pritaikymas",
+      "description": "Galite konfigūruoti pranešimo rodymo tipą ir vertimo kalbą. Lankstiai pritaikykite jį pagal savo poreikius ir pageidavimus."
+    }
+  },
+  "footer": {
+    "copyright": "© {year} TransCord. Visos teisės saugomos.",
+    "support_server": "Palaikymo serveris",
+    "terms_of_service": "Paslaugų teikimo sąlygos",
+    "privacy_policy": "Privatumo politika"
+  }
+}

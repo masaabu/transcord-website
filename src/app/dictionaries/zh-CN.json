@@ -1,0 +1,44 @@
+{
+  "hero": {
+    "tagline": "让多语言交流变得更容易。",
+    "title": "一个打破语言障碍的Discord机器人。",
+    "highlight": "TransCord",
+    "description": "TransCord可以翻译消息和文本。任何人都可以使用命令轻松享受国际交流。",
+    "invite_button": "添加机器人",
+    "features_link": "查看功能"
+  },
+  "features": {
+    "title": "TransCord的主要功能",
+    "description": "兼具简单性和强大功能。在任何服务器上轻松翻译消息。",
+    "multilingual_support": {
+      "title": "多语言支持",
+      "description": "TransCord目前支持8种语言的翻译。我们可以根据要求添加更多支持的语言。"
+    },
+    "translation": {
+      "title": "轻松翻译",
+      "description": "您可以使用斜杠命令或消息上下文菜单翻译消息。"
+    },
+    "easy_setup": {
+      "title": "轻松设置",
+      "description": "只需安装机器人即可完成设置，您可以立即开始使用翻译功能。"
+    },
+    "slash_commands": {
+      "title": "斜杠命令",
+      "description": "完全兼容Discord最新的斜杠命令。命令输入简单直观。"
+    },
+    "fast_stable": {
+      "title": "快速稳定",
+      "description": "优化的代码和稳定的基础架构可提供无压力的快速翻译体验。"
+    },
+    "high_customization": {
+      "title": "高度可定制",
+      "description": "您可以配置消息显示类型和翻译语言。根据您的需求和偏好灵活地进行自定义。"
+    }
+  },
+  "footer": {
+    "copyright": "© {year} TransCord. 版权所有。",
+    "support_server": "支持服务器",
+    "terms_of_service": "服务条款",
+    "privacy_policy": "隐私政策"
+  }
+}

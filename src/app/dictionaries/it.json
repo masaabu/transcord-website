@@ -1,0 +1,44 @@
+{
+  "hero": {
+    "tagline": "Rendere la comunicazione multilingue più accessibile.",
+    "title": "Un bot Discord che abbatte le barriere linguistiche.",
+    "highlight": "TransCord",
+    "description": "TransCord traduce messaggi e testo. Chiunque può facilmente godere della comunicazione internazionale utilizzando i comandi.",
+    "invite_button": "Aggiungi bot",
+    "features_link": "Visualizza funzionalità"
+  },
+  "features": {
+    "title": "Caratteristiche principali di TransCord",
+    "description": "Combinando semplicità e alta funzionalità. Traduci facilmente i messaggi su qualsiasi server.",
+    "multilingual_support": {
+      "title": "Supporto multilingue",
+      "description": "TransCord attualmente supporta la traduzione in 8 lingue. Possiamo aggiungere altre lingue supportate su richiesta."
+    },
+    "translation": {
+      "title": "Traduzione facile",
+      "description": "Puoi tradurre i messaggi dal comando slash o dal menu di scelta rapida del messaggio."
+    },
+    "easy_setup": {
+      "title": "Configurazione semplice",
+      "description": "Installa semplicemente il bot per completare la configurazione e puoi iniziare a utilizzare subito le funzionalità di traduzione."
+    },
+    "slash_commands": {
+      "title": "Comandi slash",
+      "description": "Pienamente compatibile con gli ultimi comandi slash di Discord. L'immissione dei comandi è facile e intuitiva."
+    },
+    "fast_stable": {
+      "title": "Veloce e stabile",
+      "description": "Il codice ottimizzato e un'infrastruttura stabile offrono un'esperienza di traduzione ad alta velocità e senza stress."
+    },
+    "high_customization": {
+      "title": "Elevata personalizzazione",
+      "description": "È possibile configurare il tipo di visualizzazione del messaggio e la lingua di traduzione. Personalizzalo in modo flessibile in base alle tue esigenze e preferenze."
+    }
+  },
+  "footer": {
+    "copyright": "© {year} TransCord. Tutti i diritti riservati.",
+    "support_server": "Server di supporto",
+    "terms_of_service": "Termini di servizio",
+    "privacy_policy": "Politica sulla riservatezza"
+  }
+}

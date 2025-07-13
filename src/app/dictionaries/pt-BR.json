@@ -1,0 +1,44 @@
+{
+  "hero": {
+    "tagline": "Tornando a comunicação multilíngue mais acessível.",
+    "title": "Um bot do Discord que quebra as barreiras do idioma.",
+    "highlight": "TransCord",
+    "description": "O TransCord traduz mensagens e texto. Qualquer pessoa pode desfrutar facilmente da comunicação internacional usando comandos.",
+    "invite_button": "Adicionar bot",
+    "features_link": "Ver recursos"
+  },
+  "features": {
+    "title": "Principais recursos do TransCord",
+    "description": "Combinando simplicidade com alta funcionalidade. Traduza mensagens facilmente em qualquer servidor.",
+    "multilingual_support": {
+      "title": "Suporte multilíngue",
+      "description": "O TransCord atualmente oferece suporte à tradução em 8 idiomas. Podemos adicionar mais idiomas suportados mediante solicitação."
+    },
+    "translation": {
+      "title": "Tradução fácil",
+      "description": "Você pode traduzir mensagens a partir do comando de barra ou do menu de contexto da mensagem."
+    },
+    "easy_setup": {
+      "title": "Configuração fácil",
+      "description": "Basta instalar o bot para concluir a configuração e você pode começar a usar os recursos de tradução imediatamente."
+    },
+    "slash_commands": {
+      "title": "Comandos de barra",
+      "description": "Totalmente compatível com os comandos de barra mais recentes do Discord. A entrada de comando é fácil e intuitiva."
+    },
+    "fast_stable": {
+      "title": "Rápido e estável",
+      "description": "O código otimizado e uma infraestrutura estável proporcionam uma experiência de tradução de alta velocidade e sem estresse."
+    },
+    "high_customization": {
+      "title": "Alta personalização",
+      "description": "Você pode configurar o tipo de exibição da mensagem e o idioma da tradução. Personalize-o de forma flexível para atender às suas necessidades e preferências."
+    }
+  },
+  "footer": {
+    "copyright": "© {year} TransCord. Todos os direitos reservados.",
+    "support_server": "Servidor de suporte",
+    "terms_of_service": "Termos de Serviço",
+    "privacy_policy": "Política de Privacidade"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "hero": {
+    "tagline": "Çok dilli iletişimi daha erişilebilir hale getirmek.",
+    "title": "Dil engellerini ortadan kaldıran bir Discord botu.",
+    "highlight": "TransCord",
+    "description": "TransCord, mesajları ve metinleri çevirir. Komutları kullanarak herkes uluslararası iletişimin keyfini kolayca çıkarabilir.",
+    "invite_button": "Bot Ekle",
+    "features_link": "Özellikleri Görüntüle"
+  },
+  "features": {
+    "title": "TransCord'un Temel Özellikleri",
+    "description": "Basitliği yüksek işlevsellikle birleştiriyor. Herhangi bir sunucudaki mesajları kolayca çevirin.",
+    "multilingual_support": {
+      "title": "Çok Dilli Destek",
+      "description": "TransCord şu anda 8 dilde çeviriyi desteklemektedir. Talep üzerine daha fazla desteklenen dil ekleyebiliriz."
+    },
+    "translation": {
+      "title": "Kolay Çeviri",
+      "description": "Mesajları eğik çizgi komutundan veya mesaj içerik menüsünden çevirebilirsiniz."
+    },
+    "easy_setup": {
+      "title": "Kolay Kurulum",
+      "description": "Kurulumu tamamlamak için botu kurmanız yeterlidir ve çeviri özelliklerini hemen kullanmaya başlayabilirsiniz."
+    },
+    "slash_commands": {
+      "title": "Eğik Çizgi Komutları",
+      "description": "Discord'un en son eğik çizgi komutlarıyla tamamen uyumludur. Komut girişi kolay ve sezgiseldir."
+    },
+    "fast_stable": {
+      "title": "Hızlı ve Kararlı",
+      "description": "Optimize edilmiş kod ve kararlı bir altyapı, stressiz, yüksek hızlı bir çeviri deneyimi sağlar."
+    },
+    "high_customization": {
+      "title": "Yüksek Özelleştirme",
+      "description": "Mesaj görüntüleme türünü ve çeviri dilini yapılandırabilirsiniz. İhtiyaçlarınıza ve tercihlerinize uyacak şekilde esnek bir şekilde özelleştirin."
+    }
+  },
+  "footer": {
+    "copyright": "© {year} TransCord. Tüm hakları saklıdır.",
+    "support_server": "Destek Sunucusu",
+    "terms_of_service": "Hizmet Şartları",
+    "privacy_policy": "Gizlilik Politikası"
+  }
+}

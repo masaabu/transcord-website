@@ -1,0 +1,44 @@
+{
+  "hero": {
+    "tagline": "Monikielisen viestinnän helpottaminen.",
+    "title": "Discord-botti, joka murtaa kielimuureja.",
+    "highlight": "TransCord",
+    "description": "TransCord kääntää viestejä ja tekstiä. Kuka tahansa voi helposti nauttia kansainvälisestä viestinnästä komentojen avulla.",
+    "invite_button": "Lisää botti",
+    "features_link": "Näytä ominaisuudet"
+  },
+  "features": {
+    "title": "TransCordin tärkeimmät ominaisuudet",
+    "description": "Yhdistää yksinkertaisuuden ja korkean toiminnallisuuden. Käännä viestejä helposti millä tahansa palvelimella.",
+    "multilingual_support": {
+      "title": "Monikielinen tuki",
+      "description": "TransCord tukee tällä hetkellä käännöstä 8 kielellä. Voimme lisätä tuettuja kieliä pyynnöstä."
+    },
+    "translation": {
+      "title": "Helppo kääntäminen",
+      "description": "Voit kääntää viestejä vinoviivakomennolla tai viestin pikavalikosta."
+    },
+    "easy_setup": {
+      "title": "Helppo asennus",
+      "description": "Asenna botti viimeistelläksesi asennuksen, ja voit aloittaa käännösominaisuuksien käytön heti."
+    },
+    "slash_commands": {
+      "title": "Vinoviivakomennot",
+      "description": "Täysin yhteensopiva Discordin uusimpien vinoviivakomentojen kanssa. Komentojen syöttäminen on helppoa ja intuitiivista."
+    },
+    "fast_stable": {
+      "title": "Nopea ja vakaa",
+      "description": "Optimoitu koodi ja vakaa infrastruktuuri tarjoavat stressittömän ja nopean käännöskokemuksen."
+    },
+    "high_customization": {
+      "title": "Korkea mukautettavuus",
+      "description": "Voit määrittää viestin näyttötyypin ja käännöskielen. Mukauta sitä joustavasti tarpeidesi ja mieltymystesi mukaan."
+    }
+  },
+  "footer": {
+    "copyright": "© {year} TransCord. Kaikki oikeudet pidätetään.",
+    "support_server": "Tukipalvelin",
+    "terms_of_service": "Käyttöehdot",
+    "privacy_policy": "Tietosuojakäytäntö"
+  }
+}

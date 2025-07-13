@@ -1,0 +1,44 @@
+{
+  "hero": {
+    "tagline": "Ułatwianie komunikacji wielojęzycznej.",
+    "title": "Bot Discord, który przełamuje bariery językowe.",
+    "highlight": "TransCord",
+    "description": "TransCord tłumaczy wiadomości i tekst. Każdy może z łatwością cieszyć się międzynarodową komunikacją za pomocą poleceń.",
+    "invite_button": "Dodaj bota",
+    "features_link": "Zobacz funkcje"
+  },
+  "features": {
+    "title": "Kluczowe cechy TransCord",
+    "description": "Połączenie prostoty z wysoką funkcjonalnością. Z łatwością tłumacz wiadomości na dowolnym serwerze.",
+    "multilingual_support": {
+      "title": "Obsługa wielu języków",
+      "description": "TransCord obsługuje obecnie tłumaczenie na 8 języków. Na życzenie możemy dodać więcej obsługiwanych języków."
+    },
+    "translation": {
+      "title": "Łatwe tłumaczenie",
+      "description": "Możesz tłumaczyć wiadomości za pomocą polecenia slash lub menu kontekstowego wiadomości."
+    },
+    "easy_setup": {
+      "title": "Łatwa konfiguracja",
+      "description": "Wystarczy zainstalować bota, aby zakończyć konfigurację, i od razu można zacząć korzystać z funkcji tłumaczenia."
+    },
+    "slash_commands": {
+      "title": "Polecenia slash",
+      "description": "W pełni kompatybilny z najnowszymi poleceniami slash Discorda. Wprowadzanie poleceń jest łatwe i intuicyjne."
+    },
+    "fast_stable": {
+      "title": "Szybki i stabilny",
+      "description": "Zoptymalizowany kod i stabilna infrastruktura zapewniają bezstresowe i szybkie tłumaczenie."
+    },
+    "high_customization": {
+      "title": "Wysoka personalizacja",
+      "description": "Możesz skonfigurować typ wyświetlania wiadomości i język tłumaczenia. Dostosuj go elastycznie do swoich potrzeb i preferencji."
+    }
+  },
+  "footer": {
+    "copyright": "© {year} TransCord. Wszelkie prawa zastrzeżone.",
+    "support_server": "Serwer pomocy technicznej",
+    "terms_of_service": "Warunki korzystania z usługi",
+    "privacy_policy": "Polityka prywatności"
+  }
+}

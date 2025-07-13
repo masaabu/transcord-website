@@ -1,0 +1,44 @@
+{
+  "hero": {
+    "tagline": "Zpřístupnění vícejazyčné komunikace.",
+    "title": "Discord bot, který boří jazykové bariéry.",
+    "highlight": "TransCord",
+    "description": "TransCord překládá zprávy a text. Každý si může snadno užít mezinárodní komunikaci pomocí příkazů.",
+    "invite_button": "Přidat bota",
+    "features_link": "Zobrazit funkce"
+  },
+  "features": {
+    "title": "Klíčové vlastnosti TransCordu",
+    "description": "Spojení jednoduchosti s vysokou funkčností. Snadno překládejte zprávy na jakémkoli serveru.",
+    "multilingual_support": {
+      "title": "Vícejazyčná podpora",
+      "description": "TransCord v současné době podporuje překlad do 8 jazyků. Na vyžádání můžeme přidat další podporované jazyky."
+    },
+    "translation": {
+      "title": "Snadný překlad",
+      "description": "Zprávy můžete překládat pomocí příkazu s lomítkem nebo z kontextové nabídky zprávy."
+    },
+    "easy_setup": {
+      "title": "Snadné nastavení",
+      "description": "Jednoduše nainstalujte bota a dokončete nastavení a můžete okamžitě začít používat funkce překladu."
+    },
+    "slash_commands": {
+      "title": "Příkazy s lomítkem",
+      "description": "Plně kompatibilní s nejnovějšími příkazy s lomítkem na Discordu. Zadávání příkazů je snadné a intuitivní."
+    },
+    "fast_stable": {
+      "title": "Rychlý a stabilní",
+      "description": "Optimalizovaný kód a stabilní infrastruktura poskytují bezstresový a vysokorychlostní překladatelský zážitek."
+    },
+    "high_customization": {
+      "title": "Vysoká přizpůsobitelnost",
+      "description": "Můžete nakonfigurovat typ zobrazení zprávy a jazyk překladu. Flexibilně si jej přizpůsobte svým potřebám a preferencím."
+    }
+  },
+  "footer": {
+    "copyright": "© {year} TransCord. Všechna práva vyhrazena.",
+    "support_server": "Server podpory",
+    "terms_of_service": "Podmínky služby",
+    "privacy_policy": "Zásady ochrany osobních údajů"
+  }
+}

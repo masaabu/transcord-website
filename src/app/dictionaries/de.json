@@ -1,0 +1,44 @@
+{
+  "hero": {
+    "tagline": "Mehrsprachige Kommunikation zugänglicher machen.",
+    "title": "Ein Discord-Bot, der Sprachbarrieren überwindet.",
+    "highlight": "TransCord",
+    "description": "TransCord übersetzt Nachrichten und Texte. Jeder kann ganz einfach internationale Kommunikation mit Befehlen genießen.",
+    "invite_button": "Bot hinzufügen",
+    "features_link": "Funktionen anzeigen"
+  },
+  "features": {
+    "title": "Hauptmerkmale von TransCord",
+    "description": "Kombiniert Einfachheit mit hoher Funktionalität. Übersetzen Sie ganz einfach Nachrichten auf jedem Server.",
+    "multilingual_support": {
+      "title": "Mehrsprachige Unterstützung",
+      "description": "TransCord unterstützt derzeit die Übersetzung in 8 Sprachen. Auf Anfrage können wir weitere unterstützte Sprachen hinzufügen."
+    },
+    "translation": {
+      "title": "Einfache Übersetzung",
+      "description": "Sie können Nachrichten über den Schrägstrich-Befehl oder das Kontextmenü der Nachricht übersetzen."
+    },
+    "easy_setup": {
+      "title": "Einfache Einrichtung",
+      "description": "Installieren Sie einfach den Bot, um die Einrichtung abzuschließen, und Sie können die Übersetzungsfunktionen sofort nutzen."
+    },
+    "slash_commands": {
+      "title": "Schrägstrich-Befehle",
+      "description": "Vollständig kompatibel mit den neuesten Schrägstrich-Befehlen von Discord. Die Befehlseingabe ist einfach und intuitiv."
+    },
+    "fast_stable": {
+      "title": "Schnell und stabil",
+      "description": "Optimierter Code und eine stabile Infrastruktur sorgen für ein stressfreies und schnelles Übersetzungserlebnis."
+    },
+    "high_customization": {
+      "title": "Hohe Anpassbarkeit",
+      "description": "Sie können den Anzeigetyp der Nachricht und die Übersetzungssprache konfigurieren. Passen Sie es flexibel an Ihre Bedürfnisse und Vorlieben an."
+    }
+  },
+  "footer": {
+    "copyright": "© {year} TransCord. Alle Rechte vorbehalten.",
+    "support_server": "Support-Server",
+    "terms_of_service": "Nutzungsbedingungen",
+    "privacy_policy": "Datenschutzrichtlinie"
+  }
+}

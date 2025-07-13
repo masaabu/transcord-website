@@ -1,0 +1,44 @@
+{
+  "hero": {
+    "tagline": "Haciendo la comunicación multilingüe más accesible.",
+    "title": "Un bot de Discord que rompe las barreras del idioma.",
+    "highlight": "TransCord",
+    "description": "TransCord traduce mensajes y texto. Cualquiera puede disfrutar fácilmente de la comunicación internacional usando comandos.",
+    "invite_button": "Añadir bot",
+    "features_link": "Ver características"
+  },
+  "features": {
+    "title": "Características clave de TransCord",
+    "description": "Combinando simplicidad con alta funcionalidad. Traduce mensajes fácilmente en cualquier servidor.",
+    "multilingual_support": {
+      "title": "Soporte multilingüe",
+      "description": "TransCord actualmente admite la traducción en 8 idiomas. Podemos agregar más idiomas compatibles a pedido."
+    },
+    "translation": {
+      "title": "Traducción fácil",
+      "description": "Puedes traducir mensajes desde el comando de barra o el menú contextual del mensaje."
+    },
+    "easy_setup": {
+      "title": "Configuración fácil",
+      "description": "Simplemente instala el bot para completar la configuración y podrás comenzar a usar las funciones de traducción de inmediato."
+    },
+    "slash_commands": {
+      "title": "Comandos de barra",
+      "description": "Totalmente compatible con los últimos comandos de barra de Discord. La entrada de comandos es fácil e intuitiva."
+    },
+    "fast_stable": {
+      "title": "Rápido y estable",
+      "description": "El código optimizado y una infraestructura estable brindan una experiencia de traducción de alta velocidad y sin estrés."
+    },
+    "high_customization": {
+      "title": "Alta personalización",
+      "description": "Puedes configurar el tipo de visualización de mensajes y el idioma de traducción. Personalízalo de forma flexible para que se adapte a tus necesidades y preferencias."
+    }
+  },
+  "footer": {
+    "copyright": "© {year} TransCord. Todos los derechos reservados.",
+    "support_server": "Servidor de soporte",
+    "terms_of_service": "Términos de servicio",
+    "privacy_policy": "Política de privacidad"
+  }
+}
