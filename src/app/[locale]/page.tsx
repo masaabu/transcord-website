@@ -115,8 +115,6 @@ const Footer = ({ dict }: { dict: Dictionary }) => (
       <div className="flex gap-x-6 text-sm">
         <LanguageSwitcher />
         <Link href="https://discord.gg/HxSEF3u3aY" className="text-gray-400 transition-colors hover:text-white">{dict.footer.support_server}</Link>
-        <Link href="#" className="text-gray-400 transition-colors hover:text-white">{dict.footer.terms_of_service}</Link>
-        <Link href="#" className="text-gray-400 transition-colors hover:text-white">{dict.footer.privacy_policy}</Link>
       </div>
     </div>
   </footer>
