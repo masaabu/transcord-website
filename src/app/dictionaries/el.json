@@ -37,8 +37,6 @@
   },
   "footer": {
     "copyright": "© {year} TransCord. Με την επιφύλαξη παντός δικαιώματος.",
-    "support_server": "Διακομιστής υποστήριξης",
-    "terms_of_service": "Όροι Παροχής Υπηρεσιών",
-    "privacy_policy": "Πολιτική Απορρήτου"
+    "support_server": "Διακομιστής υποστήριξης"
   }
 }

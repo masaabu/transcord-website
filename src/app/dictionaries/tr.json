@@ -37,8 +37,6 @@
   },
   "footer": {
     "copyright": "© {year} TransCord. Tüm hakları saklıdır.",
-    "support_server": "Destek Sunucusu",
-    "terms_of_service": "Hizmet Şartları",
-    "privacy_policy": "Gizlilik Politikası"
+    "support_server": "Destek Sunucusu"
   }
 }

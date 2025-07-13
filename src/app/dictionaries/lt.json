@@ -37,8 +37,6 @@
   },
   "footer": {
     "copyright": "© {year} TransCord. Visos teisės saugomos.",
-    "support_server": "Palaikymo serveris",
-    "terms_of_service": "Paslaugų teikimo sąlygos",
-    "privacy_policy": "Privatumo politika"
+    "support_server": "Palaikymo serveris"
   }
 }

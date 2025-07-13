@@ -37,8 +37,6 @@
   },
   "footer": {
     "copyright": "© {year} TransCord. Minden jog fenntartva.",
-    "support_server": "Támogatási szerver",
-    "terms_of_service": "Szolgáltatási feltételek",
-    "privacy_policy": "Adatvédelmi irányelvek"
+    "support_server": "Támogatási szerver"
   }
 }

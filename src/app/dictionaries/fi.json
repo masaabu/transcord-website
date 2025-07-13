@@ -37,8 +37,6 @@
   },
   "footer": {
     "copyright": "© {year} TransCord. Kaikki oikeudet pidätetään.",
-    "support_server": "Tukipalvelin",
-    "terms_of_service": "Käyttöehdot",
-    "privacy_policy": "Tietosuojakäytäntö"
+    "support_server": "Tukipalvelin"
   }
 }

@@ -37,8 +37,6 @@
   },
   "footer": {
     "copyright": "© {year} TransCord. Alla rättigheter förbehållna.",
-    "support_server": "Supportserver",
-    "terms_of_service": "Användarvillkor",
-    "privacy_policy": "Integritetspolicy"
+    "support_server": "Supportserver"
   }
 }

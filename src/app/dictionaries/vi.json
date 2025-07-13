@@ -37,8 +37,6 @@
   },
   "footer": {
     "copyright": "© {year} TransCord. Mọi quyền được bảo lưu.",
-    "support_server": "Máy chủ hỗ trợ",
-    "terms_of_service": "Điều khoản dịch vụ",
-    "privacy_policy": "Chính sách bảo mật"
+    "support_server": "Máy chủ hỗ trợ"
   }
 }

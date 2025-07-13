@@ -37,8 +37,6 @@
   },
   "footer": {
     "copyright": "© {year} TransCord. Toate drepturile rezervate.",
-    "support_server": "Server de asistență",
-    "terms_of_service": "Termeni și condiții",
-    "privacy_policy": "Politică de confidențialitate"
+    "support_server": "Server de asistență"
   }
 }

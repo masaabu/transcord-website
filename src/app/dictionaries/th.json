@@ -37,8 +37,6 @@
   },
   "footer": {
     "copyright": "© {year} TransCord. สงวนลิขสิทธิ์",
-    "support_server": "เซิร์ฟเวอร์สนับสนุน",
-    "terms_of_service": "ข้อกำหนดในการให้บริการ",
-    "privacy_policy": "นโยบายความเป็นส่วนตัว"
+    "support_server": "เซิร์ฟเวอร์สนับสนุน"
   }
 }

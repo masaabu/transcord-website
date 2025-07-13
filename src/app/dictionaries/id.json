@@ -37,8 +37,6 @@
   },
   "footer": {
     "copyright": "© {year} TransCord. Hak cipta dilindungi undang-undang.",
-    "support_server": "Server Dukungan",
-    "terms_of_service": "Ketentuan Layanan",
-    "privacy_policy": "Kebijakan Privasi"
+    "support_server": "Server Dukungan"
   }
 }

@@ -37,8 +37,6 @@
   },
   "footer": {
     "copyright": "© {year} TransCord. Sva prava pridržana.",
-    "support_server": "Poslužitelj za podršku",
-    "terms_of_service": "Uvjeti pružanja usluge",
-    "privacy_policy": "Pravila o privatnosti"
+    "support_server": "Poslužitelj za podršku"
   }
 }

@@ -37,8 +37,6 @@
   },
   "footer": {
     "copyright": "© {year} TransCord. Všechna práva vyhrazena.",
-    "support_server": "Server podpory",
-    "terms_of_service": "Podmínky služby",
-    "privacy_policy": "Zásady ochrany osobních údajů"
+    "support_server": "Server podpory"
   }
 }
