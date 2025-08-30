@@ -22,6 +22,9 @@ export async function generateMetadata(
   return {
     title: `Transcord`,
     description: t("home.hero.title"),
+    verification: {
+      google: "BCXkHuN0X-nlOp144yNpu54ds-BW9CnzTcDFeZsB0Os"
+    },
     openGraph: {
       type: "website",
       url: "/",

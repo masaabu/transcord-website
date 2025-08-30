@@ -16,7 +16,7 @@ export default async function PostSection({ locale, postId, home }: { locale: st
 		const file = fs.readFileSync(filePath, "utf-8");
 		const { data, content } = matter(file);
 		return (
-			<div className="flex mx-auto my-16 max-w-5xl pr-10">
+			<div className="md:flex block mx-auto my-16 max-w-5xl md:pr-10 px-2">
 				{home !== false ?
 					<Link href={`/${locale}/blog`} className="min-w-10 h-9 mt-1">
 						<ArrowLeft className="w-9 h-9 p-1 rounded-sm justify-center items-center hover:bg-white/10 text-gray-300 hover:text-white" />
