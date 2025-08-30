@@ -1,0 +1,56 @@
+{
+  "home": {
+    "hero": {
+      "tagline": "Gör flerspråkig kommunikation mer tillgänglig.",
+      "title": "En Discord-bot som bryter ner språkbarriärer.",
+      "highlight": "TransCord",
+      "description": "TransCord översätter meddelanden och text. Vem som helst kan enkelt njuta av internationell kommunikation med hjälp av kommandon.",
+      "invite_button": "Lägg till bot",
+      "features_link": "Visa funktioner"
+    },
+    "features": {
+      "title": "Nyckelfunktioner i TransCord",
+      "description": "Kombinerar enkelhet med hög funktionalitet. Översätt enkelt meddelanden på vilken server som helst.",
+      "multilingual_support": {
+        "title": "Flerspråkigt stöd",
+        "description": "TransCord stöder för närvarande översättning på över 30 språk. Vi kan lägga till fler språk som stöds på begäran."
+      },
+      "translation": {
+        "title": "Enkel översättning",
+        "description": "Du kan översätta meddelanden från snedstreckskommandot eller meddelandets snabbmeny."
+      },
+      "easy_setup": {
+        "title": "Enkel installation",
+        "description": "Installera bara boten för att slutföra installationen, och du kan börja använda översättningsfunktionerna direkt."
+      },
+      "slash_commands": {
+        "title": "Snedstreckskommandon",
+        "description": "Fullt kompatibel med Discords senaste snedstreckskommandon. Kommandoinmatning är enkel och intuitiv."
+      },
+      "fast_stable": {
+        "title": "Snabb och stabil",
+        "description": "Optimerad kod och en stabil infrastruktur ger en stressfri, höghastighetsöversättningsupplevelse."
+      },
+      "high_customization": {
+        "title": "Hög anpassningsbarhet",
+        "description": "Du kan konfigurera meddelandets visningstyp och översättningsspråk. Anpassa det flexibelt för att passa dina behov och preferenser."
+      }
+    }
+  },
+  "blog": {
+    "title": "Blogg",
+    "read_more": "Läs mer",
+    "not_found": "Inga inlägg hittades.",
+    "not_found_message": "Tyvärr kunde vi inte hitta inlägget du letar efter.",
+    "back_to_blog": "Tillbaka till blogglistan"
+  },
+  "navbar": {
+    "home": "Hem",
+    "blog": "Blogg"
+  },
+  "footer": {
+    "copyright": "© {year} TransCord. Alla rättigheter förbehållna.",
+    "support_server": "Supportserver",
+    "blog": "Blogg"
+  }
+}

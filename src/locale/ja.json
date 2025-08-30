@@ -1,0 +1,58 @@
+{
+  "home": {
+    "hero": {
+      "tagline": "多言語コミュニケーションをより身近に。",
+      "title": "言語の壁を超えるDiscord Bot",
+      "highlight": "TransCord",
+      "description": "TransCordはメッセージやテキストを翻訳します。コマンドを使って誰でも簡単に国際交流を楽しめます。",
+      "invite_button": "ボットを追加",
+      "features_link": "機能を見る"
+    },
+    "features": {
+      "title": "TransCordの主な機能",
+      "description": "シンプルさと高機能を両立。どんなサーバーでも簡単にメッセージを翻訳します。",
+      "multilingual_support": {
+        "title": "多言語対応",
+        "description": "TransCordは現在30以上の言語での翻訳に対応しています。リクエストに応じて対応言語を追加することも可能です。"
+      },
+      "translation": {
+        "title": "簡単な翻訳",
+        "description": "スラッシュコマンドやメッセージのコンテキストメニューからメッセージを翻訳できます。"
+      },
+      "easy_setup": {
+        "title": "簡単なセットアップ",
+        "description": "ボットを導入するだけでセットアップは完了し、すぐに翻訳機能を利用開始できます。"
+      },
+      "slash_commands": {
+        "title": "スラッシュコマンド",
+        "description": "Discordの最新のスラッシュコマンドに完全対応。コマンド入力が簡単で直感的です。"
+      },
+      "fast_stable": {
+        "title": "高速・安定",
+        "description": "最適化されたコードと安定したインフラで、ストレスのない高速な翻訳体験を提供します。"
+      },
+      "high_customization": {
+        "title": "高いカスタマイズ性",
+        "description": "メッセージの表示形式や翻訳言語を設定できます。ニーズや好みに合わせて柔軟にカスタマイズしてください。"
+      }
+    }
+  },
+  "blog": {
+    "title": "ブログ",
+    "read_more": "続きを読む",
+    "not_found": "投稿が見つかりません。",
+    "not_found_message": "申し訳ありませんが、お探しの投稿は見つかりませんでした。",
+    "back_to_blog": "ブログ一覧に戻る"
+  },
+  "navbar": {
+    "home": "ホーム",
+    "blog": "ブログ"
+  },
+  "footer": {
+    "copyright": "© {year} TransCord. All rights reserved.",
+    "terms": "利用規約",
+    "privacy": "プライバシーポリシー",
+    "blog": "ブログ",
+    "support_server": "サポートサーバー"
+  }
+}

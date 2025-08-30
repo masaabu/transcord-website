@@ -1,0 +1,56 @@
+{
+  "home": {
+    "hero": {
+      "tagline": "Daugiakalbį bendravimą darome prieinamesnį.",
+      "title": "„Discord“ botas, kuris laužo kalbos barjerus.",
+      "highlight": "TransCord",
+      "description": "„TransCord“ verčia pranešimus ir tekstą. Kiekvienas gali lengvai mėgautis tarptautiniu bendravimu naudodamas komandas.",
+      "invite_button": "Pridėti botą",
+      "features_link": "Peržiūrėti funkcijas"
+    },
+    "features": {
+      "title": "Pagrindinės „TransCord“ savybės",
+      "description": "Derinant paprastumą su dideliu funkcionalumu. Lengvai verskite pranešimus bet kuriame serveryje.",
+      "multilingual_support": {
+        "title": "Daugiakalbis palaikymas",
+        "description": "„TransCord“ šiuo metu palaiko vertimą daugiau nei 30 kalbų. Pagal pageidavimą galime pridėti daugiau palaikomų kalbų."
+      },
+      "translation": {
+        "title": "Lengvas vertimas",
+        "description": "Galite versti pranešimus iš pasvirojo brūkšnio komandos arba pranešimo kontekstinio meniu."
+      },
+      "easy_setup": {
+        "title": "Lengvas nustatymas",
+        "description": "Tiesiog įdiekite botą, kad užbaigtumėte sąranką, ir iškart galėsite pradėti naudotis vertimo funkcijomis."
+      },
+      "slash_commands": {
+        "title": "Pasvirojo brūkšnio komandos",
+        "description": "Visiškai suderinamas su naujausiomis „Discord“ pasvirojo brūkšnio komandomis. Komandų įvestis yra paprasta ir intuityvi."
+      },
+      "fast_stable": {
+        "title": "Greitas ir stabilus",
+        "description": "Optimizuotas kodas ir stabili infrastruktūra suteikia be streso, didelės spartos vertimo patirtį."
+      },
+      "high_customization": {
+        "title": "Didelis pritaikomumas",
+        "description": "Galite konfigūruoti pranešimų rodymo tipą ir vertimo kalbą. Lankstiai pritaikykite jį pagal savo poreikius ir pageidavimus."
+      }
+    }
+  },
+  "blog": {
+    "title": " tinklaraštis",
+    "read_more": "Skaityti daugiau",
+    "not_found": "Įrašų nerasta.",
+    "not_found_message": "Atsiprašome, bet neradome ieškomo įrašo.",
+    "back_to_blog": "Grįžti į tinklaraščio sąrašą"
+  },
+  "navbar": {
+    "home": "Namai",
+    "blog": "Tinklaraštis"
+  },
+  "footer": {
+    "copyright": "© {year} TransCord. Visos teisės saugomos.",
+    "support_server": "Palaikymo serveris",
+    "blog": "Tinklaraštis"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "home": {
+    "hero": {
+      "tagline": "Zpřístupňujeme vícejazyčnou komunikaci.",
+      "title": "Discord bot, který boří jazykové bariéry.",
+      "highlight": "TransCord",
+      "description": "TransCord překládá zprávy a text. Každý si může snadno užít mezinárodní komunikaci pomocí příkazů.",
+      "invite_button": "Přidat bota",
+      "features_link": "Zobrazit funkce"
+    },
+    "features": {
+      "title": "Klíčové vlastnosti TransCordu",
+      "description": "Kombinace jednoduchosti s vysokou funkčností. Snadno překládejte zprávy na jakémkoli serveru.",
+      "multilingual_support": {
+        "title": "Podpora více jazyků",
+        "description": "TransCord v současné době podporuje překlad ve více než 30 jazycích. Na vyžádání můžeme přidat další podporované jazyky."
+      },
+      "translation": {
+        "title": "Snadný překlad",
+        "description": "Zprávy můžete překládat pomocí příkazu slash nebo z kontextové nabídky zprávy."
+      },
+      "easy_setup": {
+        "title": "Snadné nastavení",
+        "description": "Pro dokončení nastavení stačí nainstalovat bota a můžete okamžitě začít používat funkce překladu."
+      },
+      "slash_commands": {
+        "title": "Příkazy slash",
+        "description": "Plně kompatibilní s nejnovějšími příkazy slash od Discordu. Zadávání příkazů je snadné a intuitivní."
+      },
+      "fast_stable": {
+        "title": "Rychlý a stabilní",
+        "description": "Optimalizovaný kód a stabilní infrastruktura poskytují bezstresový a vysokorychlostní překladatelský zážitek."
+      },
+      "high_customization": {
+        "title": "Vysoká přizpůsobitelnost",
+        "description": "Můžete nakonfigurovat typ zobrazení zprávy a jazyk překladu. Přizpůsobte si jej flexibilně podle svých potřeb a preferencí."
+      }
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "read_more": "Přečíst více",
+    "not_found": "Nebyly nalezeny žádné příspěvky.",
+    "not_found_message": "Omlouváme se, ale nemohli jsme najít příspěvek, který hledáte.",
+    "back_to_blog": "Zpět na seznam blogů"
+  },
+  "navbar": {
+    "home": "Domů",
+    "blog": "Blog"
+  },
+  "footer": {
+    "copyright": "© {year} TransCord. Všechna práva vyhrazena.",
+    "support_server": "Server podpory",
+    "blog": "Blog"
+  }
+}

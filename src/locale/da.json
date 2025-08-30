@@ -1,0 +1,56 @@
+{
+  "home": {
+    "hero": {
+      "tagline": "Gør flersproget kommunikation mere tilgængelig.",
+      "title": "En Discord-bot, der nedbryder sprogbarrierer.",
+      "highlight": "TransCord",
+      "description": "TransCord oversætter beskeder og tekst. Alle kan nemt nyde international kommunikation ved hjælp af kommandoer.",
+      "invite_button": "Tilføj bot",
+      "features_link": "Se funktioner"
+    },
+    "features": {
+      "title": "Nøglefunktioner i TransCord",
+      "description": "Kombinerer enkelhed med høj funktionalitet. Oversæt nemt beskeder på enhver server.",
+      "multilingual_support": {
+        "title": "Flersproget support",
+        "description": "TransCord understøtter i øjeblikket oversættelse på over 30 sprog. Vi kan tilføje flere understøttede sprog efter anmodning."
+      },
+      "translation": {
+        "title": "Nem oversættelse",
+        "description": "Du kan oversætte beskeder fra skråstregskommandoen eller beskedens genvejsmenu."
+      },
+      "easy_setup": {
+        "title": "Nem opsætning",
+        "description": "Du skal blot installere botten for at fuldføre opsætningen, og du kan begynde at bruge oversættelsesfunktionerne med det samme."
+      },
+      "slash_commands": {
+        "title": "Skråstregskommandoer",
+        "description": "Fuldt kompatibel med Discords seneste skråstregskommandoer. Kommandoinput er let og intuitivt."
+      },
+      "fast_stable": {
+        "title": "Hurtig og stabil",
+        "description": "Optimeret kode og en stabil infrastruktur giver en stressfri, højhastigheds oversættelsesoplevelse."
+      },
+      "high_customization": {
+        "title": "Høj tilpasning",
+        "description": "Du kan konfigurere beskedvisningstypen og oversættelsessproget. Tilpas det fleksibelt, så det passer til dine behov og præferencer."
+      }
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "read_more": "Læs mere",
+    "not_found": "Ingen indlæg fundet.",
+    "not_found_message": "Beklager, vi kunne ikke finde det indlæg, du leder efter.",
+    "back_to_blog": "Tilbage til bloglisten"
+  },
+  "navbar": {
+    "home": "Hjem",
+    "blog": "Blog"
+  },
+  "footer": {
+    "copyright": "© {year} TransCord. Alle rettigheder forbeholdes.",
+    "support_server": "Supportserver",
+    "blog": "Blog"
+  }
+}

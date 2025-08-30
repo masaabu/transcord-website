@@ -1,0 +1,58 @@
+{
+  "home": {
+    "hero": {
+      "tagline": "Making multilingual communication more accessible.",
+      "title": "A Discord Bot that breaks down language barriers.",
+      "highlight": "TransCord",
+      "description": "TransCord translates messages and text. Anyone can easily enjoy international communication using commands.",
+      "invite_button": "Add Bot",
+      "features_link": "View Features"
+    },
+    "features": {
+      "title": "Key Features of TransCord",
+      "description": "Combining simplicity with high functionality. Easily translate messages on any server.",
+      "multilingual_support": {
+        "title": "Multilingual Support",
+        "description": "TransCord currently supports translation in 30+ languages. We can add more supported languages upon request."
+      },
+      "translation": {
+        "title": "Easy Translation",
+        "description": "You can translate messages from the slash command or the message context menu."
+      },
+      "easy_setup": {
+        "title": "Easy Setup",
+        "description": "Simply install the bot to complete the setup, and you can start using the translation features right away."
+      },
+      "slash_commands": {
+        "title": "Slash Commands",
+        "description": "Fully compatible with Discord's latest slash commands. Command input is easy and intuitive."
+      },
+      "fast_stable": {
+        "title": "Fast & Stable",
+        "description": "Optimized code and a stable infrastructure provide a stress-free, high-speed translation experience."
+      },
+      "high_customization": {
+        "title": "High Customisation",
+        "description": "You can configure the message display type and translation language. Customise it flexibly to suit your needs and preferences."
+      }
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "read_more": "Read More",
+    "not_found": "No posts found.",
+    "not_found_message": "Sorry, we couldn't find the post you're looking for.",
+    "back_to_blog": "Back to Blog List"
+  },
+  "navbar": {
+    "home": "Home",
+    "blog": "Blog"
+  },
+  "footer": {
+    "copyright": "© {year} TransCord. All rights reserved.",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "blog": "Blog",
+    "support_server": "Support Server"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "home": {
+    "hero": {
+      "tagline": "Làm cho giao tiếp đa ngôn ngữ dễ tiếp cận hơn.",
+      "title": "Một Bot Discord phá vỡ rào cản ngôn ngữ.",
+      "highlight": "TransCord",
+      "description": "TransCord dịch tin nhắn và văn bản. Bất kỳ ai cũng có thể dễ dàng tận hưởng giao tiếp quốc tế bằng cách sử dụng các lệnh.",
+      "invite_button": "Thêm Bot",
+      "features_link": "Xem tính năng"
+    },
+    "features": {
+      "title": "Các tính năng chính của TransCord",
+      "description": "Kết hợp sự đơn giản với chức năng cao. Dễ dàng dịch tin nhắn trên bất kỳ máy chủ nào.",
+      "multilingual_support": {
+        "title": "Hỗ trợ đa ngôn ngữ",
+        "description": "TransCord hiện hỗ trợ dịch thuật bằng hơn 30 ngôn ngữ. Chúng tôi có thể thêm nhiều ngôn ngữ được hỗ trợ hơn theo yêu cầu."
+      },
+      "translation": {
+        "title": "Dịch thuật dễ dàng",
+        "description": "Bạn có thể dịch tin nhắn từ lệnh gạch chéo hoặc menu ngữ cảnh của tin nhắn."
+      },
+      "easy_setup": {
+        "title": "Cài đặt dễ dàng",
+        "description": "Chỉ cần cài đặt bot để hoàn tất thiết lập và bạn có thể bắt đầu sử dụng các tính năng dịch thuật ngay lập tức."
+      },
+      "slash_commands": {
+        "title": "Lệnh gạch chéo",
+        "description": "Hoàn toàn tương thích với các lệnh gạch chéo mới nhất của Discord. Nhập lệnh dễ dàng và trực quan."
+      },
+      "fast_stable": {
+        "title": "Nhanh và ổn định",
+        "description": "Mã được tối ưu hóa và cơ sở hạ tầng ổn định mang lại trải nghiệm dịch thuật tốc độ cao, không căng thẳng."
+      },
+      "high_customization": {
+        "title": "Tùy chỉnh cao",
+        "description": "Bạn có thể định cấu hình loại hiển thị tin nhắn và ngôn ngữ dịch. Tùy chỉnh linh hoạt để phù hợp với nhu cầu và sở thích của bạn."
+      }
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "read_more": "Đọc thêm",
+    "not_found": "Không tìm thấy bài viết nào.",
+    "not_found_message": "Xin lỗi, chúng tôi không thể tìm thấy bài viết bạn đang tìm kiếm.",
+    "back_to_blog": "Quay lại danh sách blog"
+  },
+  "navbar": {
+    "home": "Trang chủ",
+    "blog": "Blog"
+  },
+  "footer": {
+    "copyright": "© {year} TransCord. Mọi quyền được bảo lưu.",
+    "support_server": "Máy chủ hỗ trợ",
+    "blog": "Blog"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "home": {
+    "hero": {
+      "tagline": "Facilitarea comunicării multilingve.",
+      "title": "Un bot Discord care sparge barierele lingvistice.",
+      "highlight": "TransCord",
+      "description": "TransCord traduce mesaje și text. Oricine se poate bucura cu ușurință de comunicarea internațională folosind comenzi.",
+      "invite_button": "Adaugă Bot",
+      "features_link": "Vezi Caracteristicile"
+    },
+    "features": {
+      "title": "Caracteristicile cheie ale TransCord",
+      "description": "Combinând simplitatea cu funcționalitatea ridicată. Traduceți cu ușurință mesaje pe orice server.",
+      "multilingual_support": {
+        "title": "Suport multilingv",
+        "description": "TransCord acceptă în prezent traducerea în peste 30 de limbi. Putem adăuga mai multe limbi acceptate la cerere."
+      },
+      "translation": {
+        "title": "Traducere ușoară",
+        "description": "Puteți traduce mesaje din comanda slash sau din meniul contextual al mesajului."
+      },
+      "easy_setup": {
+        "title": "Configurare ușoară",
+        "description": "Pur și simplu instalați botul pentru a finaliza configurarea și puteți începe să utilizați imediat funcțiile de traducere."
+      },
+      "slash_commands": {
+        "title": "Comenzi slash",
+        "description": "Complet compatibil cu cele mai recente comenzi slash de la Discord. Introducerea comenzilor este ușoară și intuitivă."
+      },
+      "fast_stable": {
+        "title": "Rapid și stabil",
+        "description": "Codul optimizat și o infrastructură stabilă oferă o experiență de traducere de mare viteză, fără stres."
+      },
+      "high_customization": {
+        "title": "Personalizare ridicată",
+        "description": "Puteți configura tipul de afișare a mesajului și limba de traducere. Personalizați-l flexibil pentru a se potrivi nevoilor și preferințelor dvs."
+      }
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "read_more": "Citește mai mult",
+    "not_found": "Niciun articol găsit.",
+    "not_found_message": "Ne pare rău, nu am putut găsi articolul pe care îl căutați.",
+    "back_to_blog": "Înapoi la lista de bloguri"
+  },
+  "navbar": {
+    "home": "Acasă",
+    "blog": "Blog"
+  },
+  "footer": {
+    "copyright": "© {year} TransCord. Toate drepturile rezervate.",
+    "support_server": "Server de suport",
+    "blog": "Blog"
+  }
+}

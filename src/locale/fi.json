@@ -1,0 +1,56 @@
+{
+  "home": {
+    "hero": {
+      "tagline": "Tehdään monikielisestä viestinnästä helpommin saavutettavaa.",
+      "title": "Discord-botti, joka murtaa kielimuurit.",
+      "highlight": "TransCord",
+      "description": "TransCord kääntää viestejä ja tekstiä. Kuka tahansa voi helposti nauttia kansainvälisestä viestinnästä komentojen avulla.",
+      "invite_button": "Lisää botti",
+      "features_link": "Katso ominaisuudet"
+    },
+    "features": {
+      "title": "TransCordin tärkeimmät ominaisuudet",
+      "description": "Yhdistää yksinkertaisuuden ja korkean toiminnallisuuden. Käännä viestejä helposti millä tahansa palvelimella.",
+      "multilingual_support": {
+        "title": "Monikielinen tuki",
+        "description": "TransCord tukee tällä hetkellä kääntämistä yli 30 kielellä. Voimme lisätä tuettuja kieliä pyynnöstä."
+      },
+      "translation": {
+        "title": "Helppo kääntäminen",
+        "description": "Voit kääntää viestejä kauttaviivakomennolla tai viestin pikavalikosta."
+      },
+      "easy_setup": {
+        "title": "Helppo asennus",
+        "description": "Asenna vain botti suorittaaksesi asennuksen, ja voit aloittaa käännösominaisuuksien käytön heti."
+      },
+      "slash_commands": {
+        "title": "Kauttaviivakomennot",
+        "description": "Täysin yhteensopiva Discordin uusimpien kauttaviivakomentojen kanssa. Komentojen syöttäminen on helppoa ja intuitiivista."
+      },
+      "fast_stable": {
+        "title": "Nopea ja vakaa",
+        "description": "Optimoitu koodi ja vakaa infrastruktuuri tarjoavat stressittömän ja nopean käännöskokemuksen."
+      },
+      "high_customization": {
+        "title": "Korkea mukautettavuus",
+        "description": "Voit määrittää viestin näyttötyypin ja käännöskielen. Mukauta sitä joustavasti tarpeidesi ja mieltymystesi mukaan."
+      }
+    }
+  },
+  "blog": {
+    "title": "Blogi",
+    "read_more": "Lue lisää",
+    "not_found": "Viestejä ei löytynyt.",
+    "not_found_message": "Valitettavasti emme löytäneet etsimääsi viestiä.",
+    "back_to_blog": "Takaisin blogilistaan"
+  },
+  "navbar": {
+    "home": "Koti",
+    "blog": "Blogi"
+  },
+  "footer": {
+    "copyright": "© {year} TransCord. Kaikki oikeudet pidätetään.",
+    "support_server": "Tukipalvelin",
+    "blog": "Blogi"
+  }
+}

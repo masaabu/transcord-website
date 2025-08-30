@@ -1,0 +1,56 @@
+{
+  "home": {
+    "hero": {
+      "tagline": "Meertalige communicatie toegankelijker maken.",
+      "title": "Een Discord-bot die taalbarrières doorbreekt.",
+      "highlight": "TransCord",
+      "description": "TransCord vertaalt berichten en tekst. Iedereen kan gemakkelijk genieten van internationale communicatie met behulp van commando's.",
+      "invite_button": "Bot toevoegen",
+      "features_link": "Functies bekijken"
+    },
+    "features": {
+      "title": "Belangrijkste kenmerken van TransCord",
+      "description": "Eenvoud combineren met hoge functionaliteit. Vertaal eenvoudig berichten op elke server.",
+      "multilingual_support": {
+        "title": "Meertalige ondersteuning",
+        "description": "TransCord ondersteunt momenteel vertaling in meer dan 30 talen. Op verzoek kunnen we meer ondersteunde talen toevoegen."
+      },
+      "translation": {
+        "title": "Eenvoudige vertaling",
+        "description": "U kunt berichten vertalen vanuit het slash-commando of het contextmenu van het bericht."
+      },
+      "easy_setup": {
+        "title": "Eenvoudige installatie",
+        "description": "Installeer gewoon de bot om de installatie te voltooien, en u kunt meteen de vertaalfuncties gebruiken."
+      },
+      "slash_commands": {
+        "title": "Slash-commando's",
+        "description": "Volledig compatibel met de nieuwste slash-commando's van Discord. Commando-invoer is eenvoudig en intuïtief."
+      },
+      "fast_stable": {
+        "title": "Snel en stabiel",
+        "description": "Geoptimaliseerde code en een stabiele infrastructuur zorgen voor een stressvrije, snelle vertaalervaring."
+      },
+      "high_customization": {
+        "title": "Hoge aanpasbaarheid",
+        "description": "U kunt het berichtweergavetype en de vertaaltaal configureren. Pas het flexibel aan uw behoeften en voorkeuren aan."
+      }
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "read_more": "Lees meer",
+    "not_found": "Geen berichten gevonden.",
+    "not_found_message": "Sorry, we konden het bericht dat je zoekt niet vinden.",
+    "back_to_blog": "Terug naar de bloglijst"
+  },
+  "navbar": {
+    "home": "Home",
+    "blog": "Blog"
+  },
+  "footer": {
+    "copyright": "© {year} TransCord. Alle rechten voorbehouden.",
+    "support_server": "Ondersteuningsserver",
+    "blog": "Blog"
+  }
+}

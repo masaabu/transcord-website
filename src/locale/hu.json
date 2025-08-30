@@ -1,0 +1,56 @@
+{
+  "home": {
+    "hero": {
+      "tagline": "A többnyelvű kommunikációt hozzáférhetőbbé tesszük.",
+      "title": "Egy Discord bot, amely lebontja a nyelvi korlátokat.",
+      "highlight": "TransCord",
+      "description": "A TransCord lefordítja az üzeneteket és a szöveget. Bárki könnyedén élvezheti a nemzetközi kommunikációt parancsok segítségével.",
+      "invite_button": "Bot hozzáadása",
+      "features_link": "Funkciók megtekintése"
+    },
+    "features": {
+      "title": "A TransCord főbb jellemzői",
+      "description": "Az egyszerűség és a magas funkcionalitás ötvözése. Könnyedén fordíthat üzeneteket bármely szerveren.",
+      "multilingual_support": {
+        "title": "Többnyelvű támogatás",
+        "description": "A TransCord jelenleg több mint 30 nyelven támogatja a fordítást. Kérésre további támogatott nyelveket is hozzáadhatunk."
+      },
+      "translation": {
+        "title": "Könnyű fordítás",
+        "description": "Üzeneteket a perjel paranccsal vagy az üzenet helyi menüjéből fordíthat."
+      },
+      "easy_setup": {
+        "title": "Könnyű beállítás",
+        "description": "A beállítás befejezéséhez egyszerűen telepítse a botot, és azonnal elkezdheti használni a fordítási funkciókat."
+      },
+      "slash_commands": {
+        "title": "Perjel parancsok",
+        "description": "Teljesen kompatibilis a Discord legújabb perjel parancsaival. A parancsbevitel egyszerű és intuitív."
+      },
+      "fast_stable": {
+        "title": "Gyors és stabil",
+        "description": "Az optimalizált kód és a stabil infrastruktúra stresszmentes, nagy sebességű fordítási élményt nyújt."
+      },
+      "high_customization": {
+        "title": "Magas szintű testreszabhatóság",
+        "description": "Konfigurálhatja az üzenet megjelenítési típusát és a fordítási nyelvet. Rugalmasan testreszabhatja igényeinek és preferenciáinak megfelelően."
+      }
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "read_more": "Tovább olvasom",
+    "not_found": "Nincsenek bejegyzések.",
+    "not_found_message": "Sajnos nem találtuk a keresett bejegyzést.",
+    "back_to_blog": "Vissza a bloglistához"
+  },
+  "navbar": {
+    "home": "Kezdőlap",
+    "blog": "Blog"
+  },
+  "footer": {
+    "copyright": "© {year} TransCord. Minden jog fenntartva.",
+    "support_server": "Támogatási szerver",
+    "blog": "Blog"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "home": {
+    "hero": {
+      "tagline": "讓多語言交流變得更加容易。",
+      "title": "一個打破語言障礙的Discord機器人。",
+      "highlight": "TransCord",
+      "description": "TransCord可以翻譯訊息和文字。任何人都可以使用指令輕鬆享受國際交流。",
+      "invite_button": "新增機器人",
+      "features_link": "查看功能"
+    },
+    "features": {
+      "title": "TransCord的主要功能",
+      "description": "簡約與高功能的結合。在任何伺服器上輕鬆翻譯訊息。",
+      "multilingual_support": {
+        "title": "多語言支援",
+        "description": "TransCord目前支援30多種語言的翻譯。我們可以根據要求新增更多支援的語言。"
+      },
+      "translation": {
+        "title": "輕鬆翻譯",
+        "description": "您可以從斜線指令或訊息上下文選單翻譯訊息。"
+      },
+      "easy_setup": {
+        "title": "輕鬆設定",
+        "description": "只需安裝機器人即可完成設定，您可以立即開始使用翻譯功能。"
+      },
+      "slash_commands": {
+        "title": "斜線指令",
+        "description": "完全相容Discord最新的斜線指令。指令輸入簡單直觀。"
+      },
+      "fast_stable": {
+        "title": "快速穩定",
+        "description": "優化的程式碼和穩定的基礎架構提供了無壓力的、高速的翻譯體驗。"
+      },
+      "high_customization": {
+        "title": "高度可自訂",
+        "description": "您可以設定訊息顯示類型和翻譯語言。根據您的需求和偏好靈活地進行自訂。"
+      }
+    }
+  },
+  "blog": {
+    "title": "部落格",
+    "read_more": "閱讀更多",
+    "not_found": "找不到文章。",
+    "not_found_message": "抱歉，我們找不到您要尋找的文章。",
+    "back_to_blog": "返回部落格列表"
+  },
+  "navbar": {
+    "home": "首頁",
+    "blog": "部落格"
+  },
+  "footer": {
+    "copyright": "© {year} TransCord. 版權所有。",
+    "terms": "服務條款",
+    "privacy": "隱私政策",
+    "blog": "部落格",
+    "support_server": "支援伺服器"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "home": {
+    "hero": {
+      "tagline": "Tornando a comunicação multilíngue mais acessível.",
+      "title": "Um bot do Discord que quebra as barreiras do idioma.",
+      "highlight": "TransCord",
+      "description": "O TransCord traduz mensagens e texto. Qualquer pessoa pode desfrutar facilmente da comunicação internacional usando comandos.",
+      "invite_button": "Adicionar Bot",
+      "features_link": "Ver Recursos"
+    },
+    "features": {
+      "title": "Principais Recursos do TransCord",
+      "description": "Combinando simplicidade com alta funcionalidade. Traduza mensagens facilmente em qualquer servidor.",
+      "multilingual_support": {
+        "title": "Suporte Multilíngue",
+        "description": "O TransCord atualmente suporta tradução em mais de 30 idiomas. Podemos adicionar mais idiomas suportados mediante solicitação."
+      },
+      "translation": {
+        "title": "Tradução Fácil",
+        "description": "Você pode traduzir mensagens a partir do comando de barra ou do menu de contexto da mensagem."
+      },
+      "easy_setup": {
+        "title": "Configuração Fácil",
+        "description": "Basta instalar o bot para concluir a configuração e você pode começar a usar os recursos de tradução imediatamente."
+      },
+      "slash_commands": {
+        "title": "Comandos de Barra",
+        "description": "Totalmente compatível com os comandos de barra mais recentes do Discord. A entrada de comando é fácil e intuitiva."
+      },
+      "fast_stable": {
+        "title": "Rápido e Estável",
+        "description": "Código otimizado e uma infraestrutura estável proporcionam uma experiência de tradução de alta velocidade e sem estresse."
+      },
+      "high_customization": {
+        "title": "Alta Personalização",
+        "description": "Você pode configurar o tipo de exibição da mensagem и o idioma de tradução. Personalize-o de forma flexível para atender às suas necessidades e preferências."
+      }
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "read_more": "Leia Mais",
+    "not_found": "Nenhuma postagem encontrada.",
+    "not_found_message": "Desculpe, não conseguimos encontrar a postagem que você está procurando.",
+    "back_to_blog": "Voltar para a Lista de Blogs"
+  },
+  "navbar": {
+    "home": "Início",
+    "blog": "Blog"
+  },
+  "footer": {
+    "copyright": "© {year} TransCord. Todos os direitos reservados.",
+    "support_server": "Servidor de Suporte",
+    "blog": "Blog"
+  }
+}
