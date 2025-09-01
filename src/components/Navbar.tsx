@@ -34,7 +34,7 @@ export default async function Navbar() {
 				<ul className="md:flex hidden">
 					{links.map((link) => (
 						<li key={link.href} className="mr-2">
-							<Link href={link.href} className="flex items-center text-gray-300 hover:bg-gray-800 hover:text-white rounded-lg px-3 py-2 transition-colors duration-150 group-hover:bg-gray-700 group-hover:text-white group-hover:rounded-sm group-hover:shadow-lg text-sm">
+							<Link href={link.href} className="flex px-3 py-2 items-center text-gray-300 hover:bg-gray-800 hover:text-white rounded-lg transition-colors duration-150 text-sm">
 								<link.icon className="mr-2" size={18} />
 								{link.label}
 							</Link>
@@ -53,8 +53,8 @@ export default async function Navbar() {
 						</SheetHeader>
 						<div className="p-4 space-y-2">
 							{links.map((link) => (
-								<div key={link.href}>
-									<Link href={link.href} className="flex items-center text-gray-300 hover:bg-gray-800 hover:text-white rounded-lg px-3 py-2 transition-colors duration-150 group-hover:bg-gray-700 group-hover:text-white group-hover:rounded-sm group-hover:shadow-lg text-sm">
+								<div key={link.href} className="flex">
+									<Link href={link.href} className="flex px-3 py-2 items-center text-gray-300 hover:bg-gray-800 hover:text-white rounded-lg transition-colors duration-150 text-sm">
 										<link.icon className="mr-2" size={18} />
 										{link.label}
 									</Link>

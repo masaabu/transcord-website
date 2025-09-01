@@ -2,7 +2,6 @@ import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
 
-import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import PostSection from "@/components/PostSection";
 
@@ -39,12 +38,9 @@ export async function generateMetadata(
 export default async function Page({ params }: { params: Promise<{ locale: string, post: string }> }) {
 	const { locale, post } = await params;
 	return (
-		<div className="bg-gray-900 text-white">
-			<Navbar />
-			<main className="pt-10">
-				<PostSection locale={locale} postId={post} />
-			</main>
+		<main className="pt-10 bg-gray-900 text-white">
+			<PostSection locale={locale} postId={post} />
 			<Footer />
-		</div>
+		</main>
 	)
 }
