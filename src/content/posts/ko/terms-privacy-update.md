@@ -1,7 +1,7 @@
 ---
 title: 이용약관 및 개인정보처리방침 업데이트 안내
 date: 2025-08-30
-author: Masaabu_
+author: masaabu_
 image: posts/transcord-beta.png
 ---
 

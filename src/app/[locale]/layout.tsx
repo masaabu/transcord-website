@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "../globals.css";
 
@@ -22,7 +22,6 @@ export async function generateMetadata(
   return {
     title: `Transcord`,
     description: t("home.hero.title"),
-    themeColor: "#51a2ff",
     verification: {
       google: "BCXkHuN0X-nlOp144yNpu54ds-BW9CnzTcDFeZsB0Os"
     },
@@ -40,6 +39,9 @@ export async function generateMetadata(
     }
   };
 }
+export const viewport: Viewport = {
+  themeColor: "#51a2ff",
+};
 
 export default async function RootLayout({
   children,

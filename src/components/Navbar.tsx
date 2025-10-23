@@ -42,7 +42,7 @@ export default async function Navbar() {
 					))}
 				</ul>
 				<Sheet>
-					<SheetTrigger>
+					<SheetTrigger aria-label="Open Menu">
 						<div className="md:hidden flex p-2 items-center justify-center text-gray-300 hover:bg-gray-800 rounded-lg">
 							<Menu />
 						</div>

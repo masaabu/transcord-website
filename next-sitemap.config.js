@@ -132,9 +132,11 @@ const config = {
 	},
 
 	robotsTxtOptions: {
-		policies: isProd ? [{ userAgent: '*', allow: '/' }] : [{ userAgent: '*', disallow: '/' }],
-		additionalSitemaps: [],
+		policies: isProd ? [{ userAgent: "*", disallow: "" }] : [{ userAgent: "*", disallow: "" }],
+		additionalSitemaps: [`${siteUrl}/sitemap-0.xml`],
 	},
 };
 
 module.exports = config;
+
+

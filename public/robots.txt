@@ -1,9 +1,10 @@
 # *
 User-agent: *
-Disallow: /
+Disallow: 
 
 # Host
 Host: https://transcord.vercel.app
 
 # Sitemaps
 Sitemap: https://transcord.vercel.app/sitemap.xml
+Sitemap: https://transcord.vercel.app/sitemap-0.xml

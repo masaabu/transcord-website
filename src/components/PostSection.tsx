@@ -18,7 +18,7 @@ export default async function PostSection({ locale, postId, home }: { locale: st
 		return (
 			<div className="md:flex block mx-auto my-16 max-w-5xl md:pr-10 px-2">
 				{home !== false ?
-					<Link href={`/${locale}/blog`} className="md:block flex min-w-10 h-9 mt-1">
+					<Link href={`/${locale}/blog`} aria-label={t("blog.back_to_blog")} className="md:block flex min-w-10 h-9 mt-1">
 						<div className="flex p-1 items-center rounded-sm hover:bg-white/10 text-gray-300 hover:text-white">
 							<ArrowLeft className="w-9 h-9 justify-center" />
 							<p className="md:hidden text-lg">{t("blog.back_to_blog")}</p>

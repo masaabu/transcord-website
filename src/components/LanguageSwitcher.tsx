@@ -72,7 +72,7 @@ export default function LanguageSwitcher() {
   if (!currentLocale) return null;
   return (
     <Select onValueChange={handleChange} value={currentLocale}>
-      <SelectTrigger className="w-auto">
+      <SelectTrigger className="w-auto" aria-label="Select Language">
         <SelectValue placeholder="Language" />
       </SelectTrigger>
       <SelectContent className="backdrop-blur-sm bg-gray-900/75 text-white border-white/10">

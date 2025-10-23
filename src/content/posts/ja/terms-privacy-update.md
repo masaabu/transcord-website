@@ -1,7 +1,7 @@
 ---
 title: 利用規約・プライバシーポリシー更新のお知らせ
 date: 2025-08-30
-author: Masaabu_
+author: masaabu_
 image: posts/transcord-beta.png
 ---
 

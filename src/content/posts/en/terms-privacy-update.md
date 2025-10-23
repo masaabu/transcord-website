@@ -1,7 +1,7 @@
 ---
 title: Notice of Updates to Terms of Service and Privacy Policy
 date: 2025-08-30
-author: Masaabu_
+author: masaabu_
 image: posts/transcord-beta.png
 ---
 
